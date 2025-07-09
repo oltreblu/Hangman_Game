@@ -1,2 +1,3 @@
 # Hangman_Game
-small game i made. it's an exercise from https://www.practicepython.org/ .
+Small game i made. it's an exercise from https://www.practicepython.org/ .
+I highly suggest you open the Hangman.py file from terminal.
